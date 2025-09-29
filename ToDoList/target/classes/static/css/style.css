@@ -1,0 +1,9 @@
+/* Place in static/css/style.css */
+body { background-color: #f8f9fa; font-family: Arial, sans-serif; }
+h2 { margin-bottom: 30px; }
+form { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+table { background: #fff; border-radius: 10px; }
+th { background: #007bff; color: #fff; }
+td, th { text-align:center; vertical-align: middle; }
+.btn { min-width: 90px; margin:2px; }
+.alert { margin-top:20px; }
